@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="album">chain smoker new album 2016</string>
+    <string name="user">ft.rihana and user</string>
+    <string name="recyclerview">Baby ft.justin biber</string>
+    <string name="hour">18 hours ago</string>
+    <string name="description">Lorem ipsum is the dummy text of printing</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

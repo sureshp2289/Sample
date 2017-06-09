@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="marginleft">30dp</dimen>
+    <dimen name="textsize">20sp</dimen>
+    <dimen name="textsize3">22sp</dimen>
+    <dimen name="textsize2">18sp</dimen>
+    <dimen name="textsize1">15sp</dimen>
+    <dimen name="elevation">05dp</dimen>
+    <dimen name="imagesize">100dp</dimen>
+    <dimen name="padding">10dp</dimen>
+</resources>
