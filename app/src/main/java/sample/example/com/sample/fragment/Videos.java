@@ -63,7 +63,7 @@ public class Videos extends Fragment {
         RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(getActivity());
         rv_videos.setLayoutManager(mLayoutManager);
         rv_videos.setItemAnimator(new DefaultItemAnimator());
-        rv_videos.addItemDecoration(new DividerItem(getActivity(), LinearLayoutManager.VERTICAL));
+       // rv_videos.addItemDecoration(new DividerItem(getActivity(), LinearLayoutManager.VERTICAL));
         rv_videos.setAdapter(adapter);
     }
 

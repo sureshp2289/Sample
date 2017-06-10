@@ -61,7 +61,7 @@ public class MIlestones extends Fragment {
         RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(getActivity());
         rv_milestones.setLayoutManager(mLayoutManager);
         rv_milestones.setItemAnimator(new DefaultItemAnimator());
-        rv_milestones.addItemDecoration(new DividerItem(getActivity(), LinearLayoutManager.VERTICAL));
+       // rv_milestones.addItemDecoration(new DividerItem(getActivity(), LinearLayoutManager.VERTICAL));
         rv_milestones.setAdapter(adapter);
     }
 

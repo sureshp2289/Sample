@@ -66,7 +66,7 @@ public class Images extends Fragment {
         RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(getActivity());
         rv_images.setLayoutManager(mLayoutManager);
         rv_images.setItemAnimator(new DefaultItemAnimator());
-        rv_images.addItemDecoration(new DividerItem(getActivity(), LinearLayoutManager.VERTICAL));
+     //   rv_images.addItemDecoration(new DividerItem(getActivity(), LinearLayoutManager.VERTICAL));
         rv_images.setAdapter(adapter);
     }
 
